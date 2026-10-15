@@ -9,5 +9,8 @@
 - **uneven_lighting.jpg** – KT2
   Nguồn: https://github.com/BingshuCV/DocumentShadowRemoval/blob/master/Natural_Original.zip
 
+- **paper_shadow.jpg** – KT2
+  Nguồn: https://github.com/BingshuCV/DocumentShadowRemoval/blob/master/Natural_Original.zip (Test016.jpg)
+
 - **street.jpg** – KT3
   Nguồn: https://github.com/georgesung/road_lane_line_detection/blob/master/test_images/solidYellowCurve.jpg
