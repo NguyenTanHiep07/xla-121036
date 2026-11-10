@@ -16,4 +16,4 @@ Nhánh: `feature/phanA`, `feature/clahe`, `feature/integral`, `feature/hough` �
 
 ## Bài tập 2
 
-Làm riêng trong [`bai_tap_2/`](bai_tap_2/README.md), gồm notebook từng thành viên, notebook gộp, ảnh và tài liệu phân công. Hoàn thành nội bộ ngày **18/11/2026**, hạn nộp **20/11/2026**. Các tệp của bài trước ở trên được giữ nguyên.
+Làm riêng trong [`bai_tap_2/`](bai_tap_2/README.md), gồm notebook từng thành viên và notebook gộp; dùng chung ảnh ở `images/` của repo. Hoàn thành nội bộ ngày **18/11/2026**, hạn nộp **20/11/2026**.

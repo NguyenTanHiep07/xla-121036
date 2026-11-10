@@ -3,5 +3,3 @@
 __pycache__/
 *.py[cod]
 .venv/
-ket_qua/*
-!ket_qua/.gitkeep
