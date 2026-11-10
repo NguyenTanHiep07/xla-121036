@@ -13,3 +13,7 @@ Nhánh: `feature/phanA`, `feature/clahe`, `feature/integral`, `feature/hough` �
 2. Mỗi lần làm: **Pull → chuyển đúng nhánh → làm → Commit → Sync**.
 3. Xong việc: đổi Trạng thái trong bảng phân công thành "Chờ test" và nhắn tester.
 4. Code các hàm tự viết, tắt Copilot, không dùng AI. Ô thí nghiệm có dùng AI phải ghi prompt ngay phía trên.
+
+## Bài tập 2
+
+Làm riêng trong [`bai_tap_2/`](bai_tap_2/README.md), gồm notebook từng thành viên và notebook gộp; dùng chung ảnh ở `images/` của repo. Hoàn thành nội bộ ngày **18/11/2026**, hạn nộp **20/11/2026**.
